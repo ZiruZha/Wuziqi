@@ -4,4 +4,4 @@
 
 updated on May, 9th, 2022
 
-AI2 updated on May, 11th, 2022
+AI updated on May, 11th, 2022
